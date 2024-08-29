@@ -1,0 +1,13 @@
+{
+  "name": "backend_may_cuvette",
+  "version": "1.0.0",
+  "description": "// ! Node.js is an open-source, cross-platform runtime environment that allows developers to run JavaScript code on the server side. It was created by Ryan Dahl in 2009 and has since become a popular choice for backend development due to its efficiency and scalability.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
