@@ -13,3 +13,5 @@
 # npm i <package-name>
 
 # npm uninstall <package-name>
+
+# The fs module in Node.js is one of the core modules that provides an API for interacting with the file system. It can be used to read, write, delete, and manipulate files and directories on the server.
