@@ -15,3 +15,33 @@
 # npm uninstall <package-name>
 
 # The fs module in Node.js is one of the core modules that provides an API for interacting with the file system. It can be used to read, write, delete, and manipulate files and directories on the server.
+
+# In Node.js, a "View Engine" refers to the template engine used to generate HTML dynamically. It allows you to embed server-side logic into HTML, making it easier to display dynamic content to users. Popular template engines include EJS, Pug (formerly Jade), and Handlebars. We’ll use EJS (Embedded JavaScript) as the view engine in this explanation, but the concepts apply to other engines as well.
+
+// MongoDB
+
+# MongoDB is a NoSQL database, which means it stores data in a non-relational format, using a flexible, document-based model instead of the traditional table-based relational database structure. It's highly scalable and ideal for modern applications that need to handle large amounts of unstructured data.
+
+# Document-Oriented: MongoDB stores data in JSON-like documents called BSON (Binary JSON), which can store complex data types.
+
+# Schema-less: Unlike relational databases, MongoDB doesn’t require a predefined schema. Documents in the same collection can have different structures, making it flexible.
+
+# Scalable: It supports horizontal scaling through sharding, which divides data across multiple servers.
+
+# Rich Query Language: MongoDB has a powerful query language that supports CRUD (Create, Read, Update, Delete) operations, filtering, sorting, and aggregation.
+
+# Database: A container for collections, equivalent to a database in a relational system.
+
+# Collection: A group of MongoDB documents, similar to a table in relational databases.
+
+# Document: A record in MongoDB, represented in BSON format.
+
+{
+"\_id": "1",
+"name": "John Doe",
+"email": {}",
+"age": 29,
+"hobbies": ["reading", "swimming"]
+}
+
+# MongoDB Atlas is MongoDB's fully-managed cloud database service. It allows you to deploy, manage, and scale MongoDB databases with ease, without worrying about infrastructure.
