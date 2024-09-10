@@ -45,3 +45,15 @@
 }
 
 # MongoDB Atlas is MongoDB's fully-managed cloud database service. It allows you to deploy, manage, and scale MongoDB databases with ease, without worrying about infrastructure.
+
+# MongoDB is a NoSQL database that stores data in a flexible, JSON-like format called BSON (Binary JSON). Unlike traditional SQL databases, MongoDB does not use tables and rows. Instead, it uses collections and documents.
+
+<!-- Collection: A grouping of MongoDB documents, akin to a table in SQL. -->
+<!-- Document: A single record in a collection, similar to a row in SQL, but in BSON format. -->
+
+<!-- Insert: Adds new documents to a collection.
+Find: Retrieves documents from a collection.
+Update: Modifies existing documents.
+Delete: Removes documents from a collection. -->
+
+# MongoDB Atlas is a cloud-based MongoDB service provided by MongoDB Inc. It offers fully managed databases with automated backups, scaling, and performance monitoring.
